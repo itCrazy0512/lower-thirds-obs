@@ -80,7 +80,7 @@ ul.mdl-js-menu > li:last-child {
 
 .label {
 	color: rgb(63,81,181);
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .url-container {
@@ -105,7 +105,7 @@ li.mdl-list__item.mdl-list__item--two-line {
 
 .mdl-list__item-primary-content > span {
 	font-weight: bold;
-	margin-bottom: 5px;
+	margin-bottom: 8px;
 }
 
 .mdl-list__item-primary-content img {
